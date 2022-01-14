@@ -1,0 +1,35 @@
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\bin\Debug\PermisosVacacionales.exe.config
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\bin\Debug\PermisosVacacionales.exe
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\bin\Debug\PermisosVacacionales.pdb
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.csproj.AssemblyReference.cache
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.Properties.Resources.resources
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.csproj.GenerateResource.cache
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.csproj.CoreCompileInputs.cache
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.exe
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.pdb
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmInicioSesion.resources
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmConsulta.resources
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmAgregarColaborador.resources
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmMenuSuper.resources
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmAceptarDenegar.resources
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmMenuPrincipal.resources
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmDirectorio.resources
+C:\Users\MarioAlbertoRomoDomi\source\repos\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmActualizarVacaciones.resources
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\bin\Debug\PermisosVacacionales.exe.config
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\bin\Debug\PermisosVacacionales.exe
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\bin\Debug\PermisosVacacionales.pdb
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.csproj.AssemblyReference.cache
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmAceptarDenegar.resources
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmActualizarVacaciones.resources
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmAgregarColaborador.resources
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmConsulta.resources
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmDirectorio.resources
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmInicioSesion.resources
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmMenuPrincipal.resources
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmMenuSuper.resources
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.Properties.Resources.resources
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.csproj.GenerateResource.cache
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.exe
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.pdb
+C:\Users\TEMP\Documents\ITH 7 Semestre\Desarrollo de Software\DIVCRIT\PermisosVacacionales\PermisosVacacionales\obj\Debug\PermisosVacacionales.frmProveedores.resources
